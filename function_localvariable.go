@@ -12,5 +12,5 @@ func main() {
 		fmt.Println(m, s, g)
 	}
 
-	m = s + 20
+	//m = s + 20
 }
